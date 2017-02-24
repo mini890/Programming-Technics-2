@@ -1,0 +1,6 @@
+Abrir Linha de Comandos
+
+Escrever "javac (nome do ficheiro).java
+
+Para executar "java (nome do ficheiro)
+NOTA: Executar sem extensão
