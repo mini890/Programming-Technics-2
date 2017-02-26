@@ -1,3 +1,5 @@
+NOTA: Instalar JDK primeiro e adicionar a pasta bin ao PATH
+
 Abrir Linha de Comandos
 
 Escrever "javac (nome do ficheiro).java
