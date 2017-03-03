@@ -1,5 +1,9 @@
 package Aula3.Polimorfismo;
 
+/**
+ * @author Miguel
+ *
+ */
 public class Escrever {
 	/**
 	 * Imprime o texto passado como argumento
