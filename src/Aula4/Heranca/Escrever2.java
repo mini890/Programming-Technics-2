@@ -1,7 +1,5 @@
 package Aula4.Heranca;
 
-import Aula3.Polimorfismo.Escrever;
-
 public class Escrever2 extends Escrever {
 	
 	public Escrever2() {

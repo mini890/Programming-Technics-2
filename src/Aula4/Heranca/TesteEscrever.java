@@ -1,7 +1,5 @@
 package Aula4.Heranca;
 
-import Aula3.Polimorfismo.Escrever;
-
 public class TesteEscrever {
 	
 	public static void main(String[] args) {
