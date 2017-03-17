@@ -40,7 +40,5 @@ public class Contador {
 	public String toString() {
 		return new String("Valor do Contador =" + conta);
 	}
-	
-	
 
 }
