@@ -1,4 +1,4 @@
-package pt.ismai.tp2.aula06;
+package Aula6.MatrizArgumentosProfessor;
 
 import java.awt.Graphics2D;
 //Desenha 5*4 circulos

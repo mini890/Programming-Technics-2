@@ -1,4 +1,4 @@
-package pt.ismai.tp2.aula06;
+package Aula6.MatrizArgumentosProfessor;
 
 public class Argumentos {
 
