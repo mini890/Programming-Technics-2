@@ -11,7 +11,6 @@ public class CurvaCubica implements IGeometry{
 	float ctrlx1, ctrly1, ctrlx2, ctrly2;
 	
 	public CurvaCubica(int i, int j, int k, int l, int m, int n, int o, int p) {
-		// TODO Auto-generated constructor stub
 		x1 = i;
 		y1 = j;
 		ctrlx1 = k;

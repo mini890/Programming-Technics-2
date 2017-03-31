@@ -3,7 +3,6 @@ package Aula6.Argumentos;
 public class Argumentos {
 
 	public static void main(String[] args) {
-		// TODO: Apresentar todos os argumentos passados para a aplicação
 		if (args.length > 0)
 			System.out.println(args.length);
 		else

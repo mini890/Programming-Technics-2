@@ -3,7 +3,6 @@ package Aula6.MatrizArgumentosProfessor;
 public class Argumentos {
 
 	public static void main(String[] args) {
-		//TODO: Apresentar todos os argumentos passados para a aplicação.
 		System.out.println(args.length);
 
 		//INICIALIZAÇÃO: int i = 0;
